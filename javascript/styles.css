@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+#myDiv {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(222, 242, 245);
+}
